@@ -1,0 +1,3 @@
+model,request_count,device_response_time_us,iops,bandwidth_Bps,issued_flash_read_cmd_for_mapping,cmt_hits,cmt_misses,total_cmt_queries
+CCFTL,30000,738,41313.233674,169219005.128584,22095,0,0,26777
+COMPRESSION,30000,738,41313.233674,169219005.128584,22095,0,26777,26777

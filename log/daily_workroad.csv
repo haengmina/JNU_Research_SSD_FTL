@@ -1,0 +1,33 @@
+﻿활동 일자,근로 내용
+2025-10-27,Flash Memory architecture 관련 논문 탐구
+2025-10-28,SSD(Flash memory)의 FTL(Flash translation layer) 관련 논문 탐구
+2025-11-03,"SSD 구조, NAND 플래시 원리, 최신 FTL 분석"
+2025-11-04,"NAND 플래시 구조, 인터페이스 분석 (ONFI 기반 타이밍 및 동작 파악)"
+2025-11-06,"NAND 플래시 구조, 인터페이스 분석 (ONFI 기반 타이밍 및 동작 파악)"
+2025-11-07,"NAND 플래시 구조, 인터페이스 분석 (ONFI 기반 타이밍 및 동작 파악)"
+2025-11-10,NVMe Queue Model 및 SSD Controller 초기화/명령 처리 구조 분석
+2025-11-11,NVMe Queue Model 및 SSD Controller 초기화/명령 처리 구조 분석
+2025-11-14,Host Interface(NVMe) ~ SSD Controller의 명령 흐름 이해
+2025-11-17,Host Interface(NVMe) ~ SSD Controller의 명령 흐름 이해
+2025-11-18,주요 FTL 기법 비교 분석 및 문제 정의
+2025-11-21,주요 FTL 기법 비교 분석 및 문제 정의
+2025-11-24,"Compression 기반 새로운 플래시 관리 기법 설계	"
+2025-11-25,"Compression 기반 새로운 플래시 관리 기법 설계	"
+2025-11-28,"Compression 기반 새로운 플래시 관리 기법 설계	"
+2025-12-01,"기존 FTL(DFTL, CCFTL, GFTL) 구조 재정리 및 Compression 기반 FTL 설계 요구사항 정리"
+2025-12-02,"기존 FTL(DFTL, CCFTL, GFTL) 구조 재정리 및 Compression 기반 FTL 설계 요구사항 정리"
+2025-12-05,Group-level mapping 및 압축 인덱싱 방식 문헌 분석
+2025-12-08,Compression 기반 FTL 주소 변환 흐름 설계 및 메타데이터 구조 정의
+2025-12-09,Compression 기반 FTL 주소 변환 흐름 설계 및 메타데이터 구조 정의
+2025-12-12,MQSim 환경 분석 및 기본 FTL 구조 코드 분석
+2025-12-15,MQSim 환경 분석 및 기본 FTL 구조 코드 분석
+2025-12-16,MQSim 기본 DFTL/CCFTL 구조 구현 방식 파악 및 수정 포인트 도출
+2025-12-19,MQSim 기본 DFTL/CCFTL 구조 구현 방식 파악 및 수정 포인트 도출
+2025-12-22,Compression 기반 FTL 초기 구조 MQSim 내 구현
+2025-12-23,Compression 기반 FTL 초기 구조 MQSim 내 구현
+2025-12-26,압축 인덱스 관리 로직 구현 및 주소 변환 동작 검증
+2026-02-02,MQSim 내 설계된 Compression 기반 FTL 구조 통합 및 전체 시뮬레이션 환경 구축
+2026-02-03,통합 모델의 주소 변환 동작 검증 및 메타데이터 업데이트 로직 디버깅
+2026-02-06,실제 SSD 트레이스(Workload) 기반 벤치마크 수행 및 초기 성능 데이터 수집
+2026-02-09,"기존 기법(DFTL, CCFTL, GFTL) 대비 쓰기 증폭(WAF) 및 DRAM 사용량 비교 분석"
+2026-02-10,시뮬레이션 결과 기반 알고리즘 성능 튜닝 및 압축 인덱싱 효율 최적화
